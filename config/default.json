@@ -1,0 +1,4 @@
+{
+    "name": "Tundle_App",
+    "db":"mongodb://localhost/tundler"
+}
